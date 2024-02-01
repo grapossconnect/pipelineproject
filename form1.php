@@ -15,10 +15,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html>
 <head>
     <title>Example Form</title>
-</head>
-<body>
-    <h1>Example Form</h1>
-    <form action="#" method="post">
+/head>
+body>
+    h1>Example Form</h1>
+    form action="#" method="post">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required><br><br>
 
